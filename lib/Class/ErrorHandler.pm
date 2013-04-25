@@ -4,7 +4,7 @@ package Class::ErrorHandler;
 use strict;
 
 use vars qw( $VERSION $ERROR );
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 sub error {
     my $msg = $_[1] || '';

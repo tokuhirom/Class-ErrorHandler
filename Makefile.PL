@@ -8,6 +8,5 @@ author('Benjamin Trott <cpan@stupidfool.org>');
 version_from('lib/Class/ErrorHandler.pm');
 license('perl');
 no_index(directory => 't');
-sign(1);
 auto_include();
 &WriteAll;
