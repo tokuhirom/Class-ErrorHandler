@@ -2,5 +2,9 @@
 
 Revision history for Class::ErrorHandler
 
+0.02  2013.04.25
+    - Re-packaging without auto_install().
+      (ANDK)
+
 0.01  2004.08.15
     - Initial distribution.
