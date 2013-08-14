@@ -1,2 +1,9 @@
 Makefile
 MANIFEST.bak
+/Class-ErrorHandler-*
+/.build
+/_build_params
+/Build
+!Build/
+!META.json
+!LICENSE
