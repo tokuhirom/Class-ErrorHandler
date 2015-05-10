@@ -12,7 +12,7 @@ use ExtUtils::MakeMaker;
 my %WriteMakefileArgs = (
     NAME     => 'Class::ErrorHandler',
     DISTNAME => 'Class-ErrorHandler',
-    VERSION  => '0.03',
+    VERSION  => '0.04',
     CONFIGURE_REQUIRES => {
   "ExtUtils::MakeMaker" => 0
 }

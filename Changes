@@ -4,6 +4,10 @@ Revision history for Class::ErrorHandler
 
 {{$NEXT}}
 
+0.04 2015-05-10T22:08:23Z
+
+    - use EU::MM
+
 0.03 2013-08-14T03:15:44Z
 
     - minl migrate

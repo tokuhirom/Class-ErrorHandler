@@ -58,8 +58,8 @@
          "web" : "https://github.com/tokuhirom/Class-ErrorHandler"
       }
    },
-   "version" : "0.03",
+   "version" : "0.04",
    "x_contributors" : [
-      "tokuhirom <tokuhirom@gmail.com>"
+      "Tokuhiro Matsuno <tokuhirom@gmail.com>"
    ]
 }
