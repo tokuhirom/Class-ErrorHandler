@@ -7,3 +7,4 @@ MANIFEST.bak
 !Build/
 !META.json
 !LICENSE
+/Build.bat

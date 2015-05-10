@@ -43,7 +43,7 @@ returns `undef`. This has the effect of the method that failed returning
 return value of `undef`, and calling _errstr_ to get the value of the
 error message on an error.
 
-As demonstrated in the [SYNOPSIS](http://search.cpan.org/perldoc?SYNOPSIS), _error_ and _errstr_ work as both class
+As demonstrated in the [SYNOPSIS](https://metacpan.org/pod/SYNOPSIS), _error_ and _errstr_ work as both class
 methods and object methods.
 
 # USAGE
